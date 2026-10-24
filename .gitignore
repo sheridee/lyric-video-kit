@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+work/
+*.mp4
+*.wav
+*.mp3
+*.flac
+fonts/*.ttf
